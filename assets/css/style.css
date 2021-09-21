@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@400;700&display=swap');
+
+
+header{
+    padding: 10px;
+    background-color: rgb(121, 121, 131);
+    text-align: center;
+    color: white;
+}
+header p {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+
+body{
+    font-family: georama;
+    color: rgba(0, 0, 0, 0.151);
+    margin: auto;
+}
+h1 {
+    
+        text-transform: uppercase;
+    text-align: center;
+}
+p{
+    color:black;
+}    
+img{
+    width: 90px;
+    margin: 0 auto;
+    padding: 40px;
+    
+   
+}
+figure{
+    text-align: center;
+}
+nav ul{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+nav ul li{
+    list-style-type: none;
+    background-color:blue;
+    padding: 60px;
+}
+nav ul li a {
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.text-container{
+    font-weight: bold;
+    text-align: justify;
+    color: black;
+    line-height: 21px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-indent: 24px;
+    padding: 50px;
+}
+footer{
+
+ background-color: rgb(41, 41, 54);
+ overflow: auto;
+ min-height: 100px;
+
+}
+footer p {
+    color: white;
+    text-align: center;
+}
+footer p a{
+    color: white;
+}
